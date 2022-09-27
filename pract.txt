@@ -1,0 +1,3 @@
+git is easy
+this is git
+welcome to git
